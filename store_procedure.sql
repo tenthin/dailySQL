@@ -39,6 +39,7 @@ GO
 
 EXEC store1 @country = 'CANADA',@gender = 'f'
 
+CREATE TABLE TIMES
 
 
 
